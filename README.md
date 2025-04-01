@@ -56,5 +56,5 @@ A web-based **task and attendance management system** designed for **doctors, pa
 ---
 
 ## *admin profile*
-username : admin.
-password : admin.
+username : admin /
+password : admin
